@@ -1,11 +1,21 @@
-# Getting Started with Create React App
+# Getting Started with Open Weather React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Getting api key from OpenWeather 
+Get api key from [OpenWeather](https://openweathermap.org/).
+
+Then patse the key into ~/common/constants.js
+
+```JS
+    export const API_KEY = '<< OpenWeather Api Key >>'; 
+```
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `yarn`
+
+Install all dependencies for a projec
 ### `yarn start`
 
 Runs the app in the development mode.\
