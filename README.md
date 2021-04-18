@@ -6,7 +6,7 @@ Get api key from [OpenWeather](https://openweathermap.org/).
 Then patse the key into ~/common/constants.js
 
 ```JS
-    export const API_KEY = '<< OpenWeather Api Key >>'; 
+    export const API_KEY = < OpenWeather Api Key >; 
 ```
 
 ## Available Scripts
